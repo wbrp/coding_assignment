@@ -3,6 +3,7 @@
 This is a simple programming task to gauge your Python coding skills. It is a simplified version of what a programmer would do in a typical day at Webrepublic.
 
 **Estimated effort**: 4 hours
+
 **Test data**: https://www.kaggle.com/satian/exported-google-analytics-data
 
 ### Instructions
