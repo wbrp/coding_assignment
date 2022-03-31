@@ -6,6 +6,8 @@ This is a simple programming task to gauge your Python coding skills. It is a si
 
 **Test data**: https://www.kaggle.com/satian/exported-google-analytics-data
 
+Test file: Test_external_data.csv 
+
 ### Instructions
 
 Write a tool that parses the sample dataset and produces data points to address the following:
