@@ -20,10 +20,26 @@ Write a tool that parses the sample dataset and produces data points to address 
 
 You have 7 days to send your solution to cesar.desales[at]webrepublic.ch
 
+### Evaluation criteria
+
+You get 👍🏽 thumbs up to pass to the next round if the problem is solved.
+
+On top of that, your project will help us get a glance of how you work:
+
+- Choice of tools and technologies. We believe if you can solve the problem in the stack stack you are comfortable with, you can certainly do it in ours, Python being the lowest common denominator
+- Your approach to problem solving: OOP? Unit testing? Change management? 
+- How you communicate and share your solution
+- Understand your strenghts and identify the on-the-job training path in case you are hired
+- We'll use it in the technical interview to break the ice and discuss how your skills can address our business needs 
+
 ### Tips
 
 - The hiring manager is convinced good programmers don’t reinvent the wheel
 - We would love to be able run the program ourselves and see its output
-- Assume your program will undergo code review and will need to be maintained. 
-- This is your chance to show us how professionally written code looks like in your view.
+- Assume your program will undergo code review and will need to be maintained
+- This is your chance to show us how professionally written code looks like in your view
 - If you believe something is truly broken with the assignment or the dataset please notify cesar.desales[at]webrepublic.ch
+
+### Nobody left behind
+
+Coding assignments have worked for us but we acknowledge they may not be everybody's cup of tea, or that some candidates may not have the ideal environment to develop a solution. If that's the case we are open (really!) to other approaches, hit us up and help us make you shine in this process.
