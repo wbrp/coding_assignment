@@ -22,7 +22,11 @@ You have 7 days to send your solution to cesar.desales[at]webrepublic.ch
 
 ### Evaluation criteria
 
-Generally you get 👍🏽 thumbs up to pass to the next round if the problem is solved. 
+You'll need 👍🏽 thumbs up in the following criteria to pass to the next round:
+
+- 👍 The problem is solved in time
+- 👍 Basic programming and design principles are followed. Think of Software Engineering 101: modularity, encapsulation and so on
+- 👍 The code is Pythonic at least to a certain degree
 
 On top of that, your project will help us get a glance of how you work:
 
