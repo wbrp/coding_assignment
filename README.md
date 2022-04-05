@@ -42,4 +42,6 @@ On top of that, your project will help us get a glance of how you work:
 
 ### Nobody left behind
 
-Coding assignments have worked for us but we acknowledge they may not be everybody's cup of tea, or that some candidates may not have the ideal environment to develop a solution. If that's the case we are open (really!) to other approaches, hit us up and help us make you shine in this process.
+We have made good experiences with coding assignments but we acknowledge they may not be everybody's cup of tea, or that some candidates may not have the ideal environment to develop a solution at home. If that's the case we are open (really!) to other approaches, hit us up and help us make you shine.
+
+Also, we understand perhaps you want to know more about the company and the job before investing your time in this takehome assignment. Fair enough. While we prefer to have a streamlined process, you have the option to request the meet & greet session before writing any code, simply let us know.
