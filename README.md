@@ -22,7 +22,7 @@ You have 7 days to send your solution to cesar.desales[at]webrepublic.ch
 
 ### Evaluation criteria
 
-You get 👍🏽 thumbs up to pass to the next round if the problem is solved.
+You get 👍🏽 thumbs up to pass to the next round if the problem is solved. 
 
 On top of that, your project will help us get a glance of how you work:
 
@@ -31,6 +31,7 @@ On top of that, your project will help us get a glance of how you work:
 - How you communicate and share your solution
 - Understand your strenghts and identify the on-the-job training path in case you are hired
 - We'll use it in the technical interview to break the ice and discuss how your skills can address our business needs 
+- You can use it as a good opportunity to differentiate yourself from other candidates, for instance by using test driven or clean code approach.
 
 ### Tips
 
