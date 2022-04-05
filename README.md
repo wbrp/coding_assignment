@@ -22,7 +22,7 @@ You have 7 days to send your solution to cesar.desales[at]webrepublic.ch
 
 ### Evaluation criteria
 
-You get 👍🏽 thumbs up to pass to the next round if the problem is solved. 
+Generally you get 👍🏽 thumbs up to pass to the next round if the problem is solved. 
 
 On top of that, your project will help us get a glance of how you work:
 
