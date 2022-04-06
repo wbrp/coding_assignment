@@ -30,7 +30,7 @@ You'll need 👍🏽 thumbs up in the following criteria to pass to the next rou
 
 On top of that, your project will help us get a glance of how you work:
 
-- Choice of tools and technologies. We believe if you can solve the problem in the stack stack you are comfortable with, you can certainly do it in ours, Python being the lowest common denominator
+- Choice of tools and technologies
 - Your approach to problem solving: OOP? Unit testing? Change management? 
 - How you communicate and share your solution
 - Understand your strenghts and identify the on-the-job training path in case you are hired
