@@ -24,9 +24,9 @@ You have 7 days to send your solution to cesar.desales[at]webrepublic.ch
 
 You'll need 👍🏽 thumbs up in the following criteria to pass to the next round:
 
-- 👍 The problem is solved in time
-- 👍 Basic programming and design principles are followed, think of modularity, encapsulation, separation of concerns and so on
-- 👍 The code is pythonic at least to a certain degree. This shows us how familiar you are with Python.
+- 👍🏽 The problem is solved in time
+- 👍🏽 Basic programming and design principles are followed, think of modularity, encapsulation, separation of concerns and so on
+- 👍🏽 The code is pythonic at least to a certain degree. This shows us how familiar you are with Python.
 
 On top of that, your project will help us get a glance of how you work:
 
